@@ -1,0 +1,41 @@
+
+#draggable { 
+    width: 150px; 
+    height: 150px; 
+    padding: 0.5em; 
+    background-color: red;
+}
+/*droppablr*/
+#drag {
+ width: 100px; 
+ height: 100px; 
+ padding: 0.5em; 
+ float: left; 
+ margin: 10px 10px 10px 0; 
+}
+  #droppable { 
+    width: 150px; 
+    height: 150px; 
+    padding: 0.5em; 
+    float: left; 
+    margin: 10px; 
+}
+/*resijiable start*/
+ #resizable { 
+    width: 150px;
+     height: 150px; 
+     padding: 0.5em; 
+ }
+  #resizable h3 { 
+    text-align: center; 
+    margin: 0; 
+}
+/*menu start*/
+.ui-menu { 
+    width: 150px; 
+}
+/*tooltip start*/
+label {
+    display: inline-block;
+    width: 5em;
+  }
